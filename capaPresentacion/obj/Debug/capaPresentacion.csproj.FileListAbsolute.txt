@@ -1,0 +1,154 @@
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\capaPresentacion.dll.config
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\capaPresentacion.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\capaPresentacion.pdb
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\csc.exe
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\csc.rsp
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\csi.exe
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\csi.exe.config
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\csi.rsp
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Console.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\vbc.exe
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\capaDatos.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\capaNegocio.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\MySql.Data.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\Google.Protobuf.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\Zstandard.Net.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\BouncyCastle.Crypto.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\Ubiety.Dns.Core.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\Renci.SshNet.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\System.Buffers.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\K4os.Compression.LZ4.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\K4os.Hash.xxHash.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\System.Memory.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\System.Numerics.Vectors.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\capaDatos.pdb
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\capaNegocio.pdb
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\bin\MySql.Data.xml
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\obj\Debug\capaPresentacion.csprojAssemblyReference.cache
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\obj\Debug\capaPresentacion.dll
+C:\Users\AuxiliarCJ\source\repos\AplicacionWeb\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\capaPresentacion.dll.config
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\capaPresentacion.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\capaPresentacion.pdb
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\csc.exe
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\csc.rsp
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\csi.exe
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\csi.exe.config
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\csi.rsp
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Console.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\vbc.exe
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\capaDatos.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\capaNegocio.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\MySql.Data.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\Google.Protobuf.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\Zstandard.Net.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\BouncyCastle.Crypto.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\Ubiety.Dns.Core.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\Renci.SshNet.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\System.Buffers.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\K4os.Compression.LZ4.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\K4os.Hash.xxHash.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\System.Memory.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\System.Numerics.Vectors.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\capaDatos.pdb
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\capaNegocio.pdb
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\bin\MySql.Data.xml
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\obj\Debug\capaPresentacion.dll
+C:\Users\Lunaf\source\repos\Proyecto Persona\AplicacionWeb\capaPresentacion\obj\Debug\capaPresentacion.pdb
